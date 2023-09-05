@@ -1,2 +1,2 @@
 # Python
-Well, these are all the Python Projects I have done so far
+The python projects I have done so far (adding to git is fun)
